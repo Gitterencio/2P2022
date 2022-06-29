@@ -9,3 +9,4 @@ sudo pip3 install sklearn
 sudo pip3 install pillow
 
 jupyter notebook
+python -m notebook
